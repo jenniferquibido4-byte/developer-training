@@ -7,3 +7,7 @@ step 4: copy the link sa fork repositry nimo
 step 5: enter sa gitbash ug "git clone <url>" (sa url imo i paste and url sa fork acc)
 step 6: then enter cd developer-training1 (ang meaning sa cd is change directory like if gnhn ka mo change to another main chuchu)
 step 7: then enter vi README.md (like ang vi README.md is para mo sudlan nakug text ang text file without clicking the file directly)
+step 8: git add . then git commit -m "Jennifer added a new message"
+step 9: git push origin jennifer (nag create diay kug branch after nako gi suwayan ang upstream)
+then ni pull request ko and merge 
+
